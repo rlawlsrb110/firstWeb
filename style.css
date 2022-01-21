@@ -86,6 +86,10 @@ a {
     align-items: flex-start;
     padding: 8px 24px;
   }
+  
+  .navbar__logo i {
+    padding-right: 25px;
+  }
 
   /* Menu */
   .navbar__menu {
